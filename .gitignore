@@ -78,6 +78,7 @@ docs/_build/
 target/
 
 .idea/
+node_modules/
 
 
 ### Django ###

@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'leads',  # adds leads app
     'rest_framework',  # enable rest framework
+    'frontend',
 ]
 
 MIDDLEWARE = [
